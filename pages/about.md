@@ -17,4 +17,3 @@ In my current role, I am working as a Senior DevOps consultant responsible for a
 I have used Terraform for Server provisioning, Ansible for Configuration Management, Docker/Docker Compose/Docker Swarm for building containers and deploying MEAN stack application over AWS cloud platform. Implemented CI/CD practices using Jenkins Pipelines/Blue Ocean. Proficient in developing for and using AWS cloud services like ECS/EC2/Network Management.
 
 Well versed with Application performance tuning, Design patterns, Microservices architecture, REST services development using NodeJS and Spring Boot.
- 

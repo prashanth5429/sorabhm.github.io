@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The first steps
+title: The first steps - Cloud Adoption
 hide: true
 feature-img: assets/img/pexels/travel.jpeg
 author: sorabhm
@@ -48,8 +48,9 @@ Let's quickly cover an overview of initial 2 stages
 
 ## Strategy
 
-* Business meetings to identify the motivation behind cloud migration
-* Identify business stakeholders and document requirements easily understood by the tech teams
+* Document motivations behind cloud migration
+* Identify business stakeholders, document requirements and business outcomes which are easily understood by the tech teams
+* Develop business case
 * Identify the first pilot or **"Lighthouse project"**
 
 There is a beautiful article written over, what a pilot project or the term we use is in our company is ["Lighthouse Project"](https://www.contino.io/insights/why-lighthouse-projects-not-powerpoints-will-unlock-your-transformation-value) helps us achieve.
