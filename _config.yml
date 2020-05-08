@@ -20,14 +20,14 @@ post_navigation: true
 color_image: /assets/img/lineart.png                    # A bit transparent for color posts.
 
 # Features
-katex: true                                             # Enable if using math markup
-google_analytics: "UA-165340709-1"                                      # Tracking ID, e.g. "UA-000000-01"
-disqus_shortname:                                       # Your discus shortname for comments
+katex: false                                            # Enable if using math markup
+google_analytics: "UA-165340709-1"                      # Tracking ID, e.g. "UA-000000-01"
+disqus_shortname: "https-sorabhm-github-io"             # Your discus shortname for comments
 layout_variables:                                       # Open the "_sass > base" folder, and open "_variables.scss"
 footer_icons:                                           # In _data/social.yml
-share_buttons: true                                       # In _data/social.yml
+share_buttons: true                                     # In _data/social.yml
 authors: 
-    - Sorabh Mendiratta                                               # In _data/authors.yml
+    - Sorabh Mendiratta                                 # In _data/authors.yml
 language:                                               # In _data/language.yml
 
 # PAGINATION
