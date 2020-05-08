@@ -5,12 +5,12 @@ url: "https://sorabhm.github.io"
 # THEME-SPECIFIC CONFIGURATION
 title: WebArachnids                                  # site's title
 description: "A website with Microsoft Azure blog posts, tips and tricks"      # used by search engines
-avatar: assets/img/spider-logo.png                         # Empty for no avatar in navbar
+avatar: assets/img/spider-logo.webp                         # Empty for no avatar in navbar
 favicon: assets/favicon.ico                             # Icon displayed in the tab
 
 # Header and footer text
 header_text: Welcome to the Cloud  # Change Blog header text
-header_feature_image: assets/img/cloud-computing-header.jpg
+header_feature_image: assets/img/cloud-computing-header.webp
 footer_text: >
   Powered by <a href="https://jekyllrb.com/">Jekyll</a>.
 
