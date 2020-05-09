@@ -42,5 +42,21 @@ Resource Manager template | A JavaScript Object Notation (JSON) file that define
 declarative syntax | Syntax that lets you state "Here is what I intend to create" without having to write the sequence of programming commands to create it. The Resource Manager template is an example of declarative syntax.
 Service Principal | An Azure service principal is an identity created for use with applications, hosted services, and automated tools to access Azure resources. This access is restricted by the roles assigned to the service principal, giving you control over which resources can be accessed and at which level. For security reasons, it's always recommended to use service principals with automated tools rather than allowing them to log in with a user identity.
 Managed Identity | Managed identities for Azure resources is a feature of Azure Active Directory. It provides Azure services with an automatically managed identity in Azure Active Directory. You can use this identity to authenticate to any service that supports Azure AD authentication, without having credentials in your code.
+Account | An organizational unit on the Azure Enterprise portal. It is used to administer subscriptions and for reporting.
+Account owner | The person who manages subscriptions and service administrators on Azure. They can view usage data on this account and its associated subscriptions.
+Amendment subscription | A one-year, or coterminous subscription under the enrollment amendment.
+Commitment | Commitment of an annual monetary amount for Azure services at a discounted commitment rate for usage against this prepayment.
+Department administrator | The person who manages departments, creates new accounts and account owners, views usage details for the departments they manage, and can view costs when granted permissions.
+Enrollment number | A unique identifier supplied by Microsoft to identify the specific enrollment associated with an Enterprise Agreement.
+Enterprise administrator | The person who manages departments, department owners, accounts, and account owners on Azure. They have the ability to manage enterprise administrators as well as view usage data, billed quantities, and unbilled charges across all accounts and subscriptions associated with the enterprise enrollment.
+Enterprise agreement | A Microsoft licensing agreement for customers with centralized purchasing who want to standardize their entire organization on Microsoft technology and maintain an information technology infrastructure on a standard of Microsoft software.
+Azure Enterprise portal | The portal used by our enterprise customers to manage their Azure accounts and their related subscriptions.
+Resource quantity consumed | The quantity of an individual Azure service that was used in a month.
+Service administrator | The person who accesses and manages subscriptions and development projects on the Azure Enterprise portal.
+Subscription | Represents an Azure Enterprise portal subscription and is a container of Azure services managed by the same service administrator.
+Work or school account | For organizations that have set up active directory with federation to the cloud and all accounts are on a single tenant.
+
+### Did you know
+* If you would like to contribute to this or any of my other blog posts, clone my repo, create a new branch and raise a PR. If I find it fit enough, will merge the changes.
 
 #SM
