@@ -2,7 +2,7 @@
 layout: post
 title: Getting into the act - Enterprise Portal Account
 hide: true
-feature-img: assets/img/pexels/computer.webp
+feature-img: assets/img/pexels/computer.jpeg
 author: sorabhm
 tags: [Enterprise Account, Azure, Blueprint, Governance, Cloud Guild, Landing Zone]
 ---
@@ -16,7 +16,7 @@ In the meanwhile, given the focus on Time to market, the leadership team have pa
 
 In my earlier post ["The first steps"](../02/The-first-steps.html){:target="_blank"}, you might have observed that "Governance" & "Manage" phase spans across other stages. Cloud Governance and Management is an iterative process, the traditional policies and processes have to be rethink and modified. Let's take an example of Enterprise account, for better management there are few recommended hierarchies which can be setup.
 
-![Enterprise Portal Account]({{ "/assets/img/ea-hierarchies.webp" | relative_url }})
+![Enterprise Portal Account]({{ "/assets/img/ea-hierarchies.png" | relative_url }})
 _Image Credits: [Microsoft Docs](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/ea-portal-get-started)_{:target="_blank"}
 
 Each hierarchy level acts like a logical container, it helps you
@@ -26,7 +26,7 @@ Each hierarchy level acts like a logical container, it helps you
 * control and add policies, say you want to control on what types of VMs a non-prod project can use
 * define and assign Blueprints
 
-![Enterprise Portal Account]({{ "/assets/img/Azure-MgmtGroup-Blueprint.webp" | relative_url }})
+![Enterprise Portal Account]({{ "/assets/img/Azure-MgmtGroup-Blueprint.png" | relative_url }})
 _Image Credits: [Steve Buchanan Blog](http://www.buchatech.com/2018/09/architect-your-cloud-with-azure-blueprints/)_
 
 Just to get you started Blueprints are a declarative way to orchestrate the deployment of various resource templates and other artifacts such as:

@@ -2,7 +2,7 @@
 layout: post
 title: Speaking the same language
 hide: true
-feature-img: assets/img/pexels/book-coffee.webp
+feature-img: assets/img/pexels/book-glass.jpeg
 author: sorabhm
 tags: [Glossary, Azure, Terminology]
 ---
