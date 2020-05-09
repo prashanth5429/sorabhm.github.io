@@ -3,3 +3,5 @@ https://sorabhm.github.io/about/
 https://sorabhm.github.io/2020/04/24/Where-to-start.html
 https://sorabhm.github.io/2020/04/28/Powershell-beginner.html
 https://sorabhm.github.io/2020/05/02/The-first-steps.html
+https://sorabhm.github.io/2020/05/08/Speaking-the-same-language.html
+https://sorabhm.github.io/2020/05/09/Getting-into-the-act.html

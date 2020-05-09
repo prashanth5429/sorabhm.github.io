@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Beginning with Powershell
-feature-img: assets/img/pexels/book-coffee.webp
+feature-img: assets/img/pexels/circuit.jpeg
 author: sorabhm
 tags: [Powershell]
 ---

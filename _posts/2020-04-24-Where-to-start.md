@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Azure - Where to start from?
-feature-img: assets/img/pexels/book-coffee.webp
+feature-img: assets/img/pexels/book-glass.jpeg
 author: sorabhm
 tags: [Terraform, Account setup]
 ---
